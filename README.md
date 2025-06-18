@@ -1,4 +1,4 @@
-**<div align="center">
+<div align="center">
   <img height="150" src="https://i.pinimg.com/originals/66/36/d3/6636d37ba22a391c6353b1436a81f656.gif"  />
 </div>
 
@@ -16,15 +16,15 @@
 
 ###
 
-<h3 align="left">👩‍💻  Sobre mim</h3>
+<h1 align="left">👩‍💻  Sobre mim</h1>
 
 ###
 
-<p align="left">⚙️ Estudante de Engenharia de Software apaixonada por resolução de problemas e jogos de tabuleiro.<br><br>🔨 Trabalhando no projeto CalcoPy MarketCalc<br>🖥️ Estudando Javascript</p>
+<h3 align="left">⚙️ Estudante de Engenharia de Software apaixonada por resolução de problemas e jogos de tabuleiro.<br><br>🔨 Trabalhando no projeto CalcoPy MarketCalc<br>🖥️ Estudando Javascript</h3>
 
 ###
 
-<h3 align="left">🛠 Linguagens e Ferramentas</h3>
+<h1 align="left">🛠 Linguagens e Ferramentas</h1>
 
 ###
 
@@ -53,4 +53,3 @@
 </div>
 
 ###
-**
