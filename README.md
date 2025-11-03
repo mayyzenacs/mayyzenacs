@@ -20,7 +20,7 @@
 
 ###
 
-<h3 align="left">⚙️ Estudante de Engenharia de Software apaixonada por resolução de problemas e jogos de tabuleiro.<br><br>🔨 Trabalhando no projeto CalcoPy MarketCalc<br>🖥️ Estudando Javascript</h3>
+<h3 align="left">⚙️ Estudante de Engenharia de Software apaixonada por resolução de problemas e jogos de tabuleiro.<br><br>🔨 Trabalhando no meu portfólio <br>🖥️ Estudando Javascript e Bootstrap</h3>
 
 ###
 
