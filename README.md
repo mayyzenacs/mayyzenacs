@@ -6,7 +6,7 @@
 
 ###
 
-<h4 align="center"> Estudante de Engenharia de Software apaixonada por jogos de tabuleiro e entusiasta do conhecimento.<br><br>🔨 Trabalhando no meu portfólio <br>🖥️ Estudando Javascript e Bootstrap</h3>
+
 
 ###
 
