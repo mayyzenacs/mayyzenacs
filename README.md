@@ -13,6 +13,7 @@ I kinda like engineering.
 
 ###
 <div align="center">
+  <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=flat-square&logo=csharp&logoColor=white" alt="dotnet Badge">
   <img src="https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=fff&style=flat-square" alt="dotnet Badge">
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=flat-square" alt="Python Badge">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=flat-square" alt="Javascript Badge">
